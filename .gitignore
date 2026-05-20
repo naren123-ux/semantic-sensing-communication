@@ -1,0 +1,17 @@
+# MATLAB cache/build files
+*.slxc
+*.asv
+*.autosave
+*.mex*
+slprj/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Large generated MATLAB data files
+*.mat
+._*

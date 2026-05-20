@@ -1,0 +1,24 @@
+AI-assisted hybrid compression prototype results
+------------------------------------------------
+
+Input video: f1corner.mp4
+Frames used: 60
+Frame size: 256 x 256
+Frame rate: 15 fps
+Video quality setting: 50
+
+Preprocessing method:
+A semantic-inspired region-of-interest approach was used.
+The central driving region was preserved and lightly sharpened, while less important background regions were slightly blurred before compression.
+
+File size comparison:
+Original input video size: 11.709 MB
+Baseline 256 compressed size: 0.099 MB
+Hybrid compressed size: 0.100 MB
+Original-to-hybrid compression ratio: 117.18
+Hybrid reduction vs baseline: -0.56 %
+
+Frame quality metrics:
+MSE: 244.6749
+PSNR: 24.24 dB
+SSIM: 0.8484

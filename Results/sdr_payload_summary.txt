@@ -1,0 +1,8 @@
+SDR payload preparation summary
+-------------------------------
+
+Hybrid compressed video: hybrid_256_ai_compressed.mp4
+Payload size: 99921 bytes
+Payload per packet: 500 bytes
+Number of packets: 200
+Saved payload file: hybrid_payload_bytes.mat

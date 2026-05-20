@@ -1,0 +1,10 @@
+Packet reconstruction test without SDR
+--------------------------------------
+
+Payload file: hybrid_payload_bytes.mat
+Reconstructed video: reconstructed_hybrid_no_sdr.mp4
+Original payload size: 99921 bytes
+Payload per packet: 500 bytes
+Number of packets: 200
+Byte errors: 0
+Result: Perfect reconstruction before SDR transmission.

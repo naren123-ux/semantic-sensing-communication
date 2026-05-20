@@ -1,0 +1,12 @@
+Packet loss simulation summary
+------------------------------
+
+Payload file: hybrid_payload_bytes.mat
+Damaged reconstructed video: reconstructed_hybrid_with_packet_loss.mp4
+Packet loss rate: 5.00 %
+Lost packets: 6 out of 200
+Packet recovery rate: 97.00 %
+Byte errors after packet loss: 2981
+
+Note:
+Compressed MP4 files can be sensitive to packet loss because damage to header, index or prediction data may prevent correct decoding.
